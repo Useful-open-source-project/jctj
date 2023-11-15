@@ -8,6 +8,9 @@ https://air.kogeki.dev/
 2.coo : ss协议稳定应该 这个是没有测试过机场，我因为没买过。反正很多人推荐。
 https://coo.lol/
 
+3.fscloud 支持 hysteria2,vless+reality 协议 机场 年付14.30 100G  多了一块多是手续费，是13块。
+https://web.fscloud.cc/#/register?code=5Krii8wZ
+
 
 代理工具使用教程:
 https://github.com/Useful-open-source-project/jctj/releases/download/sp/ScreenRecord_20231111_194734.mp4
